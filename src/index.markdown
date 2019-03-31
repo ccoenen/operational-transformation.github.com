@@ -13,15 +13,16 @@ It turns out that implementing this kind of real-time collaboration is far from 
 
 <!--
   Google's series of posts explaining OT:
-  * http://googledocs.blogspot.de/2010/09/whats-different-about-new-google-docs.html
-  * http://googledocs.blogspot.de/2010/09/whats-different-about-new-google-docs_22.html
-  * http://googledocs.blogspot.de/2010/09/whats-different-about-new-google-docs_23.html
+  * https://drive.googleblog.com/2010/09/whats-different-about-new-google-docs.html
+  * https://drive.googleblog.com/2010/09/whats-different-about-new-google-docs_21.html
+  * https://drive.googleblog.com/2010/09/whats-different-about-new-google-docs_22.html
 -->
 
 * [SubEthaEdit (code editor)](http://www.codingmonkeys.de/subethaedit/)
 * [EtherPad](http://etherpad.org/)
 * [Google Docs](https://docs.google.com/)
 * [Mockingbird (tool for creating wireframes)](https://gomockingbird.com/)
+* [CodiMD (collaborative MarkDown editor)](https://github.com/codimd/server)
 
 These are only a few examples from a growing number of [applications with realtime collaboration](http://en.wikipedia.org/wiki/Collaborative_real-time_editor). I expect this number to rise even faster now that Google has published the Drive Realtime API, which is based on OT <!-- citation --> and let's third-party apps use the same collaboration as Google Docs.
 
